@@ -108,17 +108,6 @@ Implementar técnicas de evasión de IDS/IPS
 
 Añadir soporte para IPv6
 
-Desarrollar interfaz gráfica
-
-Captura de pantalla
-text
-███████╗████████╗██████╗ ███████╗███████╗███████╗██████╗ 
-██╔════╝╚══██╔══╝██╔══██╗██╔════╝██╔════╝██╔════╝██╔══██╗
-███████╗   ██║   ██████╔╝█████╗  ███████╗█████╗  ██████╔╝
-╚════██║   ██║   ██╔══██╗██╔══╝  ╚════██║██╔══╝  ██╔══██╗
-███████║   ██║   ██║  ██║███████╗███████║███████╗██║  ██║
-╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
-
 === Advanced Network Stress Tool ===
 Métodos disponibles:
 1. TCP SYN Flood
